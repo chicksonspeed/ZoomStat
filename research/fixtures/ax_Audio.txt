@@ -1,0 +1,51 @@
+AXIsProcessTrusted: true
+=== WINDOW Settings
+AXWindow t=Settings v= d= id=
+  AXButton t= v= d= id=
+  AXStaticText t= v=Settings d= id=
+  AXSplitGroup t= v= d= id=
+    AXScrollArea t= v= d= id=
+      AXTable t= v= d=Category List id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=General, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Video & effects, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Audio, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Meetings & webinars, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Share screen, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Accessibility, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Keyboard shortcuts, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Statistics, Selected id=
+        AXColumn t= v= d= id=SideBarTableViewColumn
+    AXSplitter t= v=230 d= id=
+    AXScrollArea t= v= d=Statistics settings id=
+      AXScrollArea t= v= d= id=
+        Tab t=Overall v= d= id=
+        Tab t=Audio, Selected v= d= id=
+        Tab t=Video v= d= id=
+        Tab t=Screen sharing v= d= id=
+      AXStaticText t= v= d=Item name id=
+      AXStaticText t= v= d=Send id=
+      AXStaticText t= v= d=Receive id=
+      AXStaticText t= v= d=Frequency id=
+      AXStaticText t= v= d=-- id=
+      AXStaticText t= v= d=48 KHz id=
+      AXGroup t= v= d=Latency Send -- Receive 33 ms id=
+        AXStaticText t= v= d=Latency id=
+        AXStaticText t= v= d=-- id=
+        AXStaticText t= v= d=33 ms id=
+      AXGroup t= v= d=Jitter Send -- Receive 2 ms id=
+        AXStaticText t= v= d=Jitter id=
+        AXStaticText t= v= d=-- id=
+        AXStaticText t= v= d=2 ms id=
+      AXStaticText t= v= d=Packet loss - average(max) id=
+      AXStaticText t= v= d=-- id=
+      AXStaticText t= v= d=0.0%  (0.0%) id=
+      AXButton t= v= d=Report problem id=
+      AXButton t= v= d=Run a test meeting id=

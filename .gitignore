@@ -1,0 +1,10 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+research/axdump
+research/axselect
+research/axpress
+research/axmin
+research/winid
+research/*.png

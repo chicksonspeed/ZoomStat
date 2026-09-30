@@ -1,0 +1,72 @@
+AXIsProcessTrusted: true
+=== WINDOW Settings
+AXWindow t=Settings v= d= id=
+  AXButton t= v= d= id=
+  AXStaticText t= v=Settings d= id=
+  AXSplitGroup t= v= d= id=
+    AXScrollArea t= v= d= id=
+      AXTable t= v= d=Category List id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=General, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Video & effects, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Audio, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Meetings & webinars, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Share screen, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Accessibility, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Keyboard shortcuts, Selected id=
+        AXRow t= v= d= id=
+          AXCell t= v= d=Statistics, Selected id=
+        AXColumn t= v= d= id=SideBarTableViewColumn
+    AXSplitter t= v=230 d= id=
+    AXScrollArea t= v= d=Statistics settings id=
+      AXScrollArea t= v= d= id=
+        Tab t=Overall, Selected v= d= id=
+        Tab t=Audio v= d= id=
+        Tab t=Video v= d= id=
+        Tab t=Screen sharing v= d= id=
+      AXScrollArea t= v= d= id=
+        AXStaticText t= v= d=CPU id=
+        AXGroup t= v= d=Zoom 7% id=
+          AXStaticText t= v= d=Zoom id=
+          AXStaticText t= v= d=7% id=
+        AXGroup t= v= d=Overall 73% id=
+          AXStaticText t= v= d=Overall id=
+          AXStaticText t= v= d=73% id=
+        AXStaticText t= v= d=2.4GHz  Cores: 11 id=
+        AXStaticText t= v= d=Memory id=
+        AXGroup t= v= d=Zoom 1.91 GB id=
+          AXStaticText t= v= d=Zoom id=
+          AXStaticText t= v= d=1.91 GB id=
+        AXGroup t= v= d=Overall 28.95 GB (High) id=
+          AXStaticText t= v= d=Overall id=
+          AXStaticText t= v= d=28.95 GB (High) id=
+        AXStaticText t= v= d=36.00 GB id=
+        AXGroup t= v= d=Bandwidth: 2747 kb/s (send)   2568 kb/s (receive) id=
+          AXStaticText t= v= d=Bandwidth: id=
+          AXStaticText t= v= d=2747 kb/s (send)   2568 kb/s (receive) id=
+        AXStaticText t= v= d=Network type: id=
+        AXStaticText t= v= d=Wired id=
+        AXStaticText t= v= d=Proxy: id=
+        AXStaticText t= v= d=-- id=
+        AXStaticText t= v= d=Connection type: id=
+        AXStaticText t= v= d=Cloud id=
+        AXStaticText t= v= d=Data Center: id=
+        AXStaticText t= v= d=You are connected to Zoom Global Network via data centers in the Netherlands (AMS) id=
+        AXStaticText t= v= d=Encryption: id=
+        AXStaticText t= v= d=AES-256-GCM id=
+        AXStaticText t= v= d=Version id=
+        AXStaticText t= v= d=6.5.7 (60598) id=
+        AXScrollBar t= v=0 d= id=
+          AXValueIndicator t= v=0 d= id=
+          AXButton t= v= d= id=
+          AXButton t= v= d= id=
+          AXButton t= v= d= id=
+          AXButton t= v= d= id=
+      AXButton t= v= d=Report problem id=
+      AXButton t= v= d=Run a test meeting id=
